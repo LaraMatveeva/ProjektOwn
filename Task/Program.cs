@@ -54,7 +54,6 @@ void PrintArrayEmpty()
     Console.WriteLine("---->[]");
 }
 
-
 int number = 0;
 while (number <= 0)
 {
